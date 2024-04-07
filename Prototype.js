@@ -17,4 +17,5 @@ function obterMapaEstoque()
   {
     Logger.log(p);
   }
+  return mapaEstoque;
 }
